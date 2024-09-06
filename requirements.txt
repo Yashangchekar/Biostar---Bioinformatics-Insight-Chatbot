@@ -1,3 +1,6 @@
+langchain_core
+os
+langchain_nvidia_ai_endpoints
 langchain
 python-dotenv
 ipykernel
